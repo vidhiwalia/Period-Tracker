@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Period-Tracker/static/css/main.beac7501.css",
+    "main.js": "/Period-Tracker/static/js/main.705706bd.js",
+    "index.html": "/Period-Tracker/index.html",
+    "main.beac7501.css.map": "/Period-Tracker/static/css/main.beac7501.css.map",
+    "main.705706bd.js.map": "/Period-Tracker/static/js/main.705706bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beac7501.css",
+    "static/js/main.705706bd.js"
+  ]
+}
